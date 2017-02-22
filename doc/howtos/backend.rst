@@ -3,7 +3,7 @@
 .. queue:: backend/series
 
 =================
-Создание модуля
+Building a Module
 =================
 
 .. warning::
