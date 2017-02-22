@@ -3,7 +3,7 @@
 .. queue:: backend/series
 
 =================
-<span title="Building a Module">Создание модуля</span>
+Создание модуля
 =================
 
 .. warning::
